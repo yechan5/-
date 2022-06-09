@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+        <title>상 하의 색 추천 사이트</title>
+    </head>
+  
+    <body bgcolor="#e1eff2">
+      
+        <center><h2>상의의 색상을 선택하시오</h2><br>
+            <br>
+            <img src="상의.jpg"width="300">
+            <br>
+            <br>
+           <a href="상의-흰색 선택시.html"> <img src="흰색.jpg" width="100"> </a>
+           <a href="상의-베이지 선택시.html"> <img src="베이지.jpg" width="100"> </a>
+           <a href="상의-초록 선택시.html"> <img src="초록.jpg" width="100"> </a>
+           <a href="상의-인디고블루 선택시.html"> <img src="인디고블루.jpg" width="100"> </a> <br>
+           <a href="상의-네이비 선택시.html"> <img src="네이비.jpg" width="100"> </a>     
+           <a href="상의-그레이 선택시.html"> <img src="그레이.jpg" width="100"> </a>     
+                                                                                                                                                                                            
+           <a href="상의-차콜 선택시.html"> <img src="차콜.jpg" width="100"> </a>
+           <a href="상의-검정 선택시.html"> <img src="검정.jpg" width="100"> </a>
+           
+           
+    </body>
+        </center>
+</html>>
+        
